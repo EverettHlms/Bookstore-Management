@@ -20,4 +20,4 @@ Bookstore Management System
 4. **Reporting**:
    - Displays initial product availability and pricing
    - Shows transaction results
-   - (Commented out) Potential for displaying total sales metrics
+   - Potential for displaying total sales metrics
